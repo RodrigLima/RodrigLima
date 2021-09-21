@@ -1,8 +1,7 @@
 ### Olá, eu sou o Rodrigo Lima 👋
 
-
-- 🔭 Estudante de Eng. de Materiais (UFRB-BA)
 - 👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas (SENAI-BA)
+- 🔭 Estudante de Eng. de Materiais (UFRB-BA)
 - ⚡ Estudo Python
 
 <div>
