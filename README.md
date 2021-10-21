@@ -1,8 +1,8 @@
 ### Olá, eu sou o Rodrigo Lima 👋
 
-- 👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas (SENAI-BA)
-- 🔭 Estudante de Eng. de Materiais (UFRB-BA)
-- ⚡ Estudo Python
+-👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas (SENAI-BA)
+- ⚛  Estudante de Eng. de Materiais (UFRB-BA)
+- 🐍  Python
 
 <div>
   <a href="https://github.com/RodrigLima">
