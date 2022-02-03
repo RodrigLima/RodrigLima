@@ -1,12 +1,12 @@
 ### Olá, eu sou o Rodrigo Lima 👋
 
-- 👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas (SENAI-BA)
+- 👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas(SENAI-BA)
 - 🐍  Python
 
 <div>
   <a href="https://github.com/RodrigLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigLima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigLima&layout=compact&langs_count=7&theme=purple"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Rodrig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
