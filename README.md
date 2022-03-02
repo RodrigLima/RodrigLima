@@ -2,6 +2,8 @@
 
 - 👨‍🎓 Estudante em Téc. de Desenvolvimento de Sistemas(SENAI-BA)
 - 🐍  Python
+- ☕ Java
+
 
 <div>
   <a href="https://github.com/RodrigLima">
